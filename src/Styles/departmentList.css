@@ -1,0 +1,29 @@
+.department-list {
+    margin: 20px 200px;
+  }
+  
+  .department {
+    margin-bottom: 10px;
+  }
+  
+  .department-header {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .department-header .icon {
+    margin-right: 10px;
+  }
+  
+  .sub-departments {
+    margin-left: 20px;
+  }
+  
+  .sub-department {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+  }
+  
